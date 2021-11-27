@@ -6,10 +6,6 @@
 항상 고민하는 개발자를 목표로 하고 있습니다.
 
 
-## Start
-🗓 Sep.2021 ~
-
-
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> <img src="https://img.shields.io/badge/Redux toolkit-999999?style=flat-square&logo=Redux toolkit&logoColor=white"/> 
